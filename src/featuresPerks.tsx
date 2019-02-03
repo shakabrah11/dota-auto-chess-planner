@@ -3,8 +3,8 @@ export const featuresPerks = {
     3: 'All friendly dragons have 100 mana when battle starts.',
   },
   Elf: {
-    3: 'Evasion increased by 25% for all friendly elfs.',
-    6: 'Evasion increased by 25% for all friendly elfs.',
+    2: 'Evasion increased by 25% for all friendly elfs.',
+    4: 'Evasion increased by 25% for all friendly elfs.',
   },
   Undead: {
     2: 'Armor decreased by 5 for all enemies.',
